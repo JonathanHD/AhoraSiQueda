@@ -10,7 +10,7 @@ $(document).ready(function(e){
                     req.idevento = 1; 
                     $.ajax({
                         method:"post",
-                        url:"/AhoraSiQueda/php/eventos/registrarAlumnosAEvento.php",
+                        url:"/titulosEscom/php/eventos/registrarAlumnosAEvento.php",
                         dataType: "json",
                         data: {alumnosAEvento:req},
                         success : function(res){

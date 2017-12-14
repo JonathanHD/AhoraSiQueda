@@ -4,15 +4,15 @@
     <meta charset="utf-8">
     <title>ESCOM - TITULOS</title>
    
-    <script src="/AhoraSiQueda/js/jquery-3.2.1.min.js" type="text/javascript"></script>
-    <script src="/AhoraSiQueda/js/materialize.min.js" type="text/javascript"></script>
-    <script src="/AhoraSiQueda/js/sweetalert2.all.js" type="text/javascript"></script>
-    <script src="/AhoraSiQueda/js/papaparse.min.js" type="text/javascript"></script>
-    <script src="/AhoraSiQueda/js/nuevoEvento.js" type="text/javascript"> </script>
+    <script src="/titulosEscom/js/jquery-3.2.1.min.js" type="text/javascript"></script>
+    <script src="/titulosEscom/js/materialize.min.js" type="text/javascript"></script>
+    <script src="/titulosEscom/js/sweetalert2.all.js" type="text/javascript"></script>
+    <script src="/titulosEscom/js/papaparse.min.js" type="text/javascript"></script>
+    <script src="/titulosEscom/js/nuevoEvento.js" type="text/javascript"> </script>
     
     
-    <link rel="stylesheet" href="/AhoraSiQueda/css/materialize.min.css">
-    <link rel="stylesheet" href="/AhoraSiQueda/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/titulosEscom/css/materialize.min.css">
+    <link rel="stylesheet" href="/titulosEscom/css/font-awesome.min.css">
 
     
   </head>

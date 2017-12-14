@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <title>ESCOM - TITULOS</title>
     <link rel="stylesheet" href="css/materialize.min.css">
-    <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/font-awesome.min.css">
 
 	  <script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
@@ -42,7 +41,12 @@
 					<input class='validate' type='password' name='usr_pass' id='usr_pass' />
 					<label for='usr_pass'>Ingrese su contraseña</label>
 				  </div>
+				  <!--label style='float: right;'>
+									<a class='pink-text' href='#!'><b>Forgot Password?</b></a>
+								</label-->
 				</div>
+
+				<br />
 				<center>
 				  <div class='row'>
 					<button type='submit' name='btn_login' class='col s12 btn btn-large waves-effect indigo'>Ingresar</button>

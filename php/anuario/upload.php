@@ -2,7 +2,7 @@
 
  session_start(); 
     if (!isset($_SESSION["usr_id"])) {
-        header("Location: /AhoraSiQueda");
+        header("Location: /titulosEscom");
         die();
     }
 $id=$_SESSION['usr_id'];
