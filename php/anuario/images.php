@@ -3,7 +3,7 @@ include "db.php";
 $images = get_imgs();
  session_start(); 
     if (!isset($_SESSION["usr_id"])) {
-        header("Location: /titulosEscom");
+        header("Location: /AhoraSiQueda");
         die();
     }
 $id=$_SESSION['usr_id'];

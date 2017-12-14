@@ -1,7 +1,7 @@
 <?php
     session_start(); 
     if (!isset($_SESSION["usr_id"])) {
-        header("Location: /titulosEscom");
+        header("Location: /AhoraSiQueda");
         die();
     }
 ?>
