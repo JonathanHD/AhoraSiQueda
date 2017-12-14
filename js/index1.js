@@ -11,7 +11,7 @@ $(document).ready(function(){
 			cache:false,
 			success: function(respAX){
 				if(respAX == "1")
-                                    $(location).attr("href","/AhoraSiQueda/inicio/");
+                                    $(location).attr("href","AhoraSiQueda/inicio/");
 				else
                                     swal(
                                         'Usuario y/o contraseña incorrectos',
